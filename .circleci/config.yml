@@ -19,4 +19,7 @@ workflows:
           version: '16.10'
           # If you are using yarn, change the line below from "npm" to "yarn"
           pkg-manager: npm
+<<<<<<< HEAD
   
+=======
+>>>>>>> 77b1b4aef3eab26388b4e6fa322478af0d0896c9
